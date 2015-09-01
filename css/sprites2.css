@@ -1,0 +1,70 @@
+.button1, .button2, .icon_article, .icon_checklist, .icon_tip, .icon_article_gray, .icon_checklist_gray, .icon_search_gray, .icon_tip_gray, .left_gray, .right_gray{
+	background: url(sprites2.png) no-repeat;
+}
+
+.button1{
+	background-position: -247px -17px ;
+	width: 22px;
+	height: 22px;
+}
+
+.button2{
+	background-position: -11px -19px ;
+	width: 22px;
+	height: 22px;
+}
+
+.icon_article{
+	background-position: -176px -11px ;
+	width: 19px;
+	height: 35px;
+}
+
+.icon_checklist{
+	background-position: -137px -21px ;
+	width: 22px;
+	height: 32px;
+}
+
+.icon_tip{
+	background-position: -55px -13px ;
+	width: 14px;
+	height: 35px;
+}
+
+.icon_article:hover{
+	background-position: -203px -63px ;
+	width: 19px;
+	height: 35px;
+}
+
+.icon_checklist:hover{
+	background-position: -139px -63px ;
+	width: 22px;
+	height: 32px;
+}
+
+.icon_search:hover{
+	background-position: -89px -44px ;
+	width: 23px;
+	height: 22px;
+}
+
+.icon_tip:hover{
+	background-position: -54px -60px ;
+	width: 14px;
+	height: 35px;
+}
+
+.button1:hover{
+	background-position: -244px -63px ;
+	width: 22px;
+	height: 22px;
+}
+
+.button2:hover{
+	background-position: -13px -57px ;
+	width: 22px;
+	height: 22px;
+}
+

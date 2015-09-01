@@ -1,0 +1,334 @@
+.analytics, .button_navigation_small1, .button_navigation_small2, .channels, .contacts, .creator, .customers, .customers_icon, .dashboard, .facebook_gray, .facebook, .foursquare_gray, .foursquare, .graph, .Icon_-Analytics, .Icon_-Customers, .Icon_-Dashboard, .Icon_-Messages, .Icon_-Page Creator, .Icon_-Promotions, .icon_article_gray, .icon_article, .icon_checklist_gray, .icon_checklist_orange, .icon_checklist, .icon_help_gray, .icon_help, .icon_search, .icon_settings_gray, .icon_settings, .icon_settings2, .icon_shadow, .icon_tip_gray, .icon_tip, .left_arrow, .logout, .messages, .promotions, .pull_up, .referrals, .ribbon_left, .ribbon_right, .right_arrow, .see_how_others, .shadow2, .twitter_gray, .twitter, .user_blue, .user_gray, .user_green, .user_orange, .version_2, .watch_what_you, .youtube_gray, .youtube{
+	background: url(sprites.png) no-repeat;
+}
+
+.analytics{
+	background-position: -282px -208px ;
+	width: 60px;
+	height: 66px;
+}
+
+.button_navigation_small1{
+	background-position: -773px -578px ;
+	width: 22px;
+	height: 22px;
+}
+
+.button_navigation_small2{
+	background-position: -627px -547px ;
+	width: 22px;
+	height: 22px;
+}
+
+.channels{
+	background-position: -916px -510px ;
+	width: 84px;
+	height: 83px;
+}
+
+.contacts{
+	background-position: -323px -281px ;
+	width: 195px;
+	height: 86px;
+}
+
+.creator{
+	background-position: -364px -491px ;
+	width: 60px;
+	height: 70px;
+}
+
+.customers{
+	background-position: -314px -381px ;
+	width: 196px;
+	height: 86px;
+}
+
+.customers_icon{
+	background-position: -278px -483px ;
+	width: 62px;
+	height: 64px;
+}
+
+.dashboard{
+	background-position: -167px -481px ;
+	width: 60px;
+	height: 73px;
+}
+
+.facebook_gray{
+	background-position: -827px -537px ;
+	width: 16px;
+	height: 16px;
+}
+
+.facebook{
+	background-position: -850px -516px ;
+	width: 16px;
+	height: 16px;
+}
+
+.foursquare_gray{
+	background-position: -781px -512px ;
+	width: 16px;
+	height: 16px;
+}
+
+.foursquare{
+	background-position: -749px -505px ;
+	width: 16px;
+	height: 16px;
+}
+
+.graph{
+	background-position: -545px -269px ;
+	width: 426px;
+	height: 200px;
+}
+
+.Icon_-Analytics{
+	background-position: -87px -471px ;
+	width: 60px;
+	height: 66px;
+}
+
+.Icon_-Customers{
+	background-position: -5px -469px ;
+	width: 62px;
+	height: 64px;
+}
+
+.Icon_-Dashboard{
+	background-position: 0 -310px ;
+	width: 60px;
+	height: 73px;
+}
+
+.Icon_-Messages{
+	background-position: -2px -387px ;
+	width: 60px;
+	height: 65px;
+}
+
+.Icon_-Page Creator{
+	background-position: -163px -388px ;
+	width: 60px;
+	height: 70px;
+}
+
+.Icon_-Promotions{
+	background-position: -83px -394px ;
+	width: 60px;
+	height: 69px;
+}
+
+.icon_article_gray{
+	background-position: -696px -511px ;
+	width: 19px;
+	height: 23px;
+}
+
+.icon_article{
+	background-position: -650px -503px ;
+	width: 19px;
+	height: 23px;
+}
+
+.icon_checklist_gray{
+	background-position: -952px -216px ;
+	width: 22px;
+	height: 20px;
+}
+
+.icon_checklist_orange{
+	background-position: -912px -202px ;
+	width: 22px;
+	height: 21px;
+}
+
+.icon_checklist{
+	background-position: -868px -200px ;
+	width: 22px;
+	height: 20px;
+}
+
+.icon_help_gray{
+	background-position: -273px -331px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_help{
+	background-position: -972px -241px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_search{
+	background-position: -595px -199px ;
+	width: 23px;
+	height: 22px;
+}
+
+.icon_settings_gray{
+	background-position: -581px -228px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_settings{
+	background-position: -211px -248px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_settings2{
+	background-position: -753px -202px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_shadow{
+	background-position: -515px -201px ;
+	width: 60px;
+	height: 5px;
+}
+
+.icon_tip_gray{
+	background-position: -753px -231px ;
+	width: 14px;
+	height: 23px;
+}
+
+.icon_tip{
+	background-position: -731px -229px ;
+	width: 14px;
+	height: 23px;
+}
+
+.left_arrow{
+	background-position: -928px -22px ;
+	width: 27px;
+	height: 144px;
+}
+
+.logout{
+	background-position: -554px -497px ;
+	width: 40px;
+	height: 40px;
+}
+
+.messages{
+	background-position: -166px -317px ;
+	width: 60px;
+	height: 65px;
+}
+
+.promotions{
+	background-position: -85px -315px ;
+	width: 60px;
+	height: 69px;
+}
+
+.pull_up{
+	background-position: -367px -208px ;
+	width: 14px;
+	height: 9px;
+}
+
+.referrals{
+	background-position: -409px -191px ;
+	width: 83px;
+	height: 83px;
+}
+
+.ribbon_left{
+	background-position: -820px -196px ;
+	width: 15px;
+	height: 40px;
+}
+
+.ribbon_right{
+	background-position: -245px -434px ;
+	width: 15px;
+	height: 40px;
+}
+
+.right_arrow{
+	background-position: -880px -26px ;
+	width: 28px;
+	height: 142px;
+}
+
+.see_how_others{
+	background-position: -567px -12px ;
+	width: 268px;
+	height: 171px;
+}
+
+.shadow2{
+	background-position: -219px -222px ;
+	width: 19px;
+	height: 12px;
+}
+
+.twitter_gray{
+	background-position: -702px -228px ;
+	width: 16px;
+	height: 16px;
+}
+
+.twitter{
+	background-position: -701px -203px ;
+	width: 16px;
+	height: 16px;
+}
+
+.user_blue{
+	background-position: -254px -186px ;
+	width: 20px;
+	height: 20px;
+}
+
+.user_gray{
+	background-position: -219px -186px ;
+	width: 20px;
+	height: 20px;
+}
+
+.user_green{
+	background-position: -116px -183px ;
+	width: 78px;
+	height: 82px;
+}
+
+.user_orange{
+	background-position: -12px -182px ;
+	width: 78px;
+	height: 82px;
+}
+
+.version_2{
+	background-position: -279px -2px ;
+	width: 263px;
+	height: 160px;
+}
+
+.watch_what_you{
+	background-position: 0 -5px ;
+	width: 263px;
+	height: 150px;
+}
+
+.youtube_gray{
+	background-position: -651px -231px ;
+	width: 16px;
+	height: 16px;
+}
+
+.youtube{
+	background-position: -655px -202px ;
+	width: 16px;
+	height: 16px;
+}
+

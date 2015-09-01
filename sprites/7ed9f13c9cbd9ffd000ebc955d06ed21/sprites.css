@@ -1,0 +1,334 @@
+.analytics_blue, .analytics_green, .bitmap, .button_navigation_small1, .button_navigation_small2, .channels, .contacts, .creator_blue, .creator_green, .customers, .customers_blue, .customers_green, .dashboard_blue, .dashboard_green, .facebook_gray, .facebook, .foursquare_gray, .foursquare, .graph, .icon_article_gray, .icon_article, .icon_checklist_gray, .icon_checklist_orange, .icon_checklist, .icon_help_gray, .icon_help, .icon_search, .icon_settings_gray, .icon_settings, .icon_settings2, .icon_shadow, .icon_tip_gray, .icon_tip, .left_arrow, .logout, .messages_blue, .messages_green, .promotions_blue, .promotions_green, .pull_up, .referrals, .ribbon_left, .ribbon_right, .right_arrow, .see_how_others, .twitter_gray, .twitter, .user_blue, .user_gray, .user_green, .user_orange, .version_2, .watch_what_you, .youtube_gray, .youTube{
+	background: url(sprites.png) no-repeat;
+}
+
+.analytics_blue{
+	background-position: -570px -553px ;
+	width: 42px;
+	height: 50px;
+}
+
+.analytics_green{
+	background-position: -41px -684px ;
+	width: 42px;
+	height: 50px;
+}
+
+.bitmap{
+	background-position: 0 -825px ;
+	width: 1200px;
+	height: 110px;
+}
+
+.button_navigation_small1{
+	background-position: -479px -56px ;
+	width: 22px;
+	height: 22px;
+}
+
+.button_navigation_small2{
+	background-position: -529px -55px ;
+	width: 22px;
+	height: 22px;
+}
+
+.channels{
+	background-position: -308px -659px ;
+	width: 84px;
+	height: 83px;
+}
+
+.contacts{
+	background-position: -54px -287px ;
+	width: 195px;
+	height: 86px;
+}
+
+.creator_blue{
+	background-position: -104px -601px ;
+	width: 45px;
+	height: 50px;
+}
+
+.creator_green{
+	background-position: -227px -582px ;
+	width: 45px;
+	height: 50px;
+}
+
+.customers{
+	background-position: -41px -177px ;
+	width: 196px;
+	height: 86px;
+}
+
+.customers_blue{
+	background-position: -342px -574px ;
+	width: 62px;
+	height: 42px;
+}
+
+.customers_green{
+	background-position: -1023px -43px ;
+	width: 62px;
+	height: 42px;
+}
+
+.dashboard_blue{
+	background-position: -1003px -595px ;
+	width: 58px;
+	height: 58px;
+}
+
+.dashboard_green{
+	background-position: -960px -473px ;
+	width: 58px;
+	height: 58px;
+}
+
+.facebook_gray{
+	background-position: -693px -376px ;
+	width: 16px;
+	height: 16px;
+}
+
+.facebook{
+	background-position: -454px -121px ;
+	width: 16px;
+	height: 16px;
+}
+
+.foursquare_gray{
+	background-position: -844px -462px ;
+	width: 16px;
+	height: 16px;
+}
+
+.foursquare{
+	background-position: -566px -73px ;
+	width: 16px;
+	height: 16px;
+}
+
+.graph{
+	background-position: -741px -161px ;
+	width: 426px;
+	height: 200px;
+}
+
+.icon_article_gray{
+	background-position: -525px -162px ;
+	width: 19px;
+	height: 23px;
+}
+
+.icon_article{
+	background-position: -416px -113px ;
+	width: 19px;
+	height: 23px;
+}
+
+.icon_checklist_gray{
+	background-position: -304px -111px ;
+	width: 22px;
+	height: 20px;
+}
+
+.icon_checklist_orange{
+	background-position: -870px -518px ;
+	width: 22px;
+	height: 21px;
+}
+
+.icon_checklist{
+	background-position: -1071px -489px ;
+	width: 22px;
+	height: 20px;
+}
+
+.icon_help_gray{
+	background-position: -810px -393px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_help{
+	background-position: -797px -42px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_search{
+	background-position: -1007px -426px ;
+	width: 23px;
+	height: 22px;
+}
+
+.icon_settings_gray{
+	background-position: -420px -153px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_settings{
+	background-position: -301px -129px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_settings2{
+	background-position: -527px -115px ;
+	width: 20px;
+	height: 20px;
+}
+
+.icon_shadow{
+	background-position: -887px -143px ;
+	width: 60px;
+	height: 5px;
+}
+
+.icon_tip_gray{
+	background-position: -484px -153px ;
+	width: 14px;
+	height: 23px;
+}
+
+.icon_tip{
+	background-position: -779px -89px ;
+	width: 14px;
+	height: 23px;
+}
+
+.left_arrow{
+	background-position: -786px -433px ;
+	width: 27px;
+	height: 144px;
+}
+
+.logout{
+	background-position: -881px -416px ;
+	width: 40px;
+	height: 40px;
+}
+
+.messages_blue{
+	background-position: -643px -66px ;
+	width: 57px;
+	height: 48px;
+}
+
+.messages_green{
+	background-position: -327px -175px ;
+	width: 57px;
+	height: 48px;
+}
+
+.promotions_blue{
+	background-position: -487px -469px ;
+	width: 50px;
+	height: 50px;
+}
+
+.promotions_green{
+	background-position: -370px -460px ;
+	width: 50px;
+	height: 50px;
+}
+
+.pull_up{
+	background-position: -326px -300px ;
+	width: 14px;
+	height: 9px;
+}
+
+.referrals{
+	background-position: -624px -129px ;
+	width: 83px;
+	height: 83px;
+}
+
+.ribbon_left{
+	background-position: -831px -641px ;
+	width: 15px;
+	height: 40px;
+}
+
+.ribbon_right{
+	background-position: -683px -286px ;
+	width: 15px;
+	height: 40px;
+}
+
+.right_arrow{
+	background-position: -687px -437px ;
+	width: 28px;
+	height: 142px;
+}
+
+.see_how_others{
+	background-position: -372px -248px ;
+	width: 268px;
+	height: 171px;
+}
+
+.twitter_gray{
+	background-position: -438px -214px ;
+	width: 16px;
+	height: 16px;
+}
+
+.twitter{
+	background-position: -568px -179px ;
+	width: 16px;
+	height: 16px;
+}
+
+.user_blue{
+	background-position: -574px -25px ;
+	width: 20px;
+	height: 20px;
+}
+
+.user_gray{
+	background-position: -525px -16px ;
+	width: 20px;
+	height: 20px;
+}
+
+.user_green{
+	background-position: -845px -31px ;
+	width: 78px;
+	height: 82px;
+}
+
+.user_orange{
+	background-position: -365px -17px ;
+	width: 78px;
+	height: 82px;
+}
+
+.version_2{
+	background-position: -18px -393px ;
+	width: 263px;
+	height: 160px;
+}
+
+.watch_what_you{
+	background-position: 0 0;
+	width: 263px;
+	height: 150px;
+}
+
+.youtube_gray{
+	background-position: -731px -19px ;
+	width: 16px;
+	height: 16px;
+}
+
+.youTube{
+	background-position: -690px -19px ;
+	width: 16px;
+	height: 16px;
+}
+

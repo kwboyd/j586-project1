@@ -1,0 +1,70 @@
+.button_navigation_small1, .button_navigation_small2, .icon_-article, .icon_-checklist, .icon_-tip, .icon_article_gray, .icon_checklist_gray, .icon_search_gray, .icon_tip_gray, .left_gray, .right_gray{
+	background: url(sprites.png) no-repeat;
+}
+
+.button_navigation_small1{
+	background-position: -247px -17px ;
+	width: 22px;
+	height: 22px;
+}
+
+.button_navigation_small2{
+	background-position: -11px -19px ;
+	width: 22px;
+	height: 22px;
+}
+
+.icon_-article{
+	background-position: -176px -11px ;
+	width: 19px;
+	height: 35px;
+}
+
+.icon_-checklist{
+	background-position: -137px -21px ;
+	width: 22px;
+	height: 32px;
+}
+
+.icon_-tip{
+	background-position: -55px -13px ;
+	width: 14px;
+	height: 35px;
+}
+
+.icon_article_gray{
+	background-position: -203px -63px ;
+	width: 19px;
+	height: 35px;
+}
+
+.icon_checklist_gray{
+	background-position: -139px -63px ;
+	width: 22px;
+	height: 32px;
+}
+
+.icon_search_gray{
+	background-position: -89px -44px ;
+	width: 23px;
+	height: 22px;
+}
+
+.icon_tip_gray{
+	background-position: -54px -60px ;
+	width: 14px;
+	height: 35px;
+}
+
+.left_gray{
+	background-position: -244px -63px ;
+	width: 22px;
+	height: 22px;
+}
+
+.right_gray{
+	background-position: -13px -57px ;
+	width: 22px;
+	height: 22px;
+}
+
