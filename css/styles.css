@@ -614,11 +614,23 @@ h3 {
     line-height: 1;
 }
 
-@media (max-width: 281px) {
+@media (max-width: 691px) {
+    #marker {
+        display: none;
+    }
+    #icon-row {
+        width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 400px) {
     #know-text-big {
         font-size: .8em;
     }
-    #know-text-small {
-        font-size: .7em;
-    }
+}
+
+#analytics-row {
+    border-left: 1px solid #f6f6f6;
 }
