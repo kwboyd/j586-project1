@@ -34,7 +34,7 @@ h3 {
 }
     
 .border {
-    border-width: 0px 2px 2px 2px;
+    border-width: 0px 2px 2px 1px;
     border-style:solid;
     border-color:#f6f6f6;
 }
@@ -175,7 +175,7 @@ h3 {
 
 .icon_search:hover{
     background: url(sprites2.png) no-repeat;
-    background-position: -89px -42px ;
+    background-position: -89px -40px ;
     width: 23px;
     height: 22px;
 }
@@ -540,6 +540,7 @@ h3 {
     width: 210px;
     margin-left: auto;
     margin-right: auto;
+    box-shadow: 1px 1px #f6f6f6;
 }
 
 .ribbon_left {
@@ -591,6 +592,7 @@ h3 {
     width: 100%;
     background-color: #4298ef;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .know-text {
@@ -629,8 +631,100 @@ h3 {
     #know-text-big {
         font-size: .8em;
     }
+    #know-text-small {
+        padding-top: 15px;
+    }
 }
 
 #analytics-row {
     border-left: 1px solid #f6f6f6;
+}
+
+/*PROMOTIONS*/
+.promotions-box {
+    background-color: #fff;
+    border-radius: 8px;
+    border-width: 0px 2px 2px 1px;
+    border-color: #196aaa;
+    border-style: solid;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: inline-block;
+}
+
+.watch_what_you {
+    padding-right: 8px;
+}
+
+.see_how_others {
+    padding: 0px 4px;
+}
+
+.version_2 {
+    padding-left: 8px;
+}
+
+#promotions-row {
+    background-color: #2498f4;
+    margin: 0px 20px;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.see_how_others.bodies {
+    background-position: -561px -22px;
+    width: 281px;
+    height: 160px;
+    margin: 0px;
+}
+
+.see_how_others.hair {
+    background-position: -561px -11px;
+    width: 281px;
+    height: 11px;
+}
+
+#hair-box {
+    display: inline-block;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.version_2 {
+    margin-top: 10px;
+}
+
+/*FOOTER*/
+.footer-text {
+    display: inline-block;
+}
+
+#footer-row {
+    background-color: #f7f7f7;
+    box-shadow: 0px -8px 10px #e5e5e5;
+    border-top: 2px solid #fff;
+    color: #999999;
+    font-size: .9em;
+    padding-top: 8px;
+    text-align: center;
+}
+
+.footer-blue {
+    color: #2498f2;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.glyphicon-chevron-up {
+    color: #2498f4;
+}
+
+.logout {
+    border-radius: 3px;
+    box-shadow: 0px 2px 4px 3px #f6f6f6;
+    display: inline-block;
+}
+
+#logout-column {
+    padding: 2px 0px;
 }
